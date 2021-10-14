@@ -1,0 +1,45 @@
+header{
+	border: 2px solid black;
+	border-radius: 5px;
+	font-family: American Typewriter, serif;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+.section1{
+	float: right;
+	padding-top: 30px;
+}
+
+.section2{
+	float: left;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.div1{
+	border: 5px solid black;
+	border-radius: 10px;
+	width: 1200px;
+	height: 1300px;
+	font-size: 16px;
+	font-family: American Typewriter, serif;
+	margin: auto;
+	box-shadow: 2px 4px 3px black;
+	padding: 1em;
+}
+
+
+footer{
+	border: 5px solid black;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	padding-top: 20px;
+	margin-top: 50px;
+	width: 1000px;
+	padding-left: 20px;
+	
+}
+
